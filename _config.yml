@@ -1,0 +1,36 @@
+title: Beyond the Meter
+email: prudhvitejimmadi@gmail.com
+description: Reflections from the intersection of energy, governance, and technology
+baseurl: ""
+url: "https://prudhvitejimmadi.github.io"
+author: Prudhvi
+
+# Social links (fill in as needed)
+twitter_username: prudhvitejimmadi
+github_username: prudhvitejimmadi
+linkedin_username: prudhvitejimmadi
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Minima theme settings
+minima:
+  skin: dark
+
+# Pagination
+paginate: 5
+paginate_path: "/page:num/"
+
+# Markdown
+markdown: kramdown
+highlighter: rouge
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - .gitignore
