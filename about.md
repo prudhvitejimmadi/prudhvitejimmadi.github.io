@@ -6,7 +6,9 @@ permalink: /about/
 
 ## About Me
 
-I'm Prudhvi — a civil servant with four years of experience at the helm of India's energy sector.
+I'm Prudhvitej Immadi, an IAS officer from 2018 batch, Andhra Pradesh cadre. I graduated with electrical engineering from IIT Bombay in 2015. I worked in Samsung R&D in Seoul upto end of 2016. After that, I prepared for civil services examination and got 24 rank in CSE-2017.  
+
+I have had a unique career trajectory after joining civil services 8 years ago. I got trained in Chittoor and worked as SDM in Kadapa district in my first posting upto 2021 August. Since then, I have been posted in various levels in Energy Department, Andhra Pradesh. I was initially working as Joint MD in APTRANSCO where I looked after Transmission Business and also bulk power purchase operations of the DISCOMs. From 2023 April, I have been working as CMD of AP Eastern Power Distribution Company. As such I got to spend more than 4 years at the helm of affairs in Energy Sector in Andhra Pradesh. 
 
 This blog is my space to reflect, analyse, and share perspectives that sit at the crossroads of **energy**, **governance**, and **technology** — three domains that are increasingly inseparable in the India of today.
 
