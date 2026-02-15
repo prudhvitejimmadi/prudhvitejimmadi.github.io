@@ -7,7 +7,7 @@ tags: [civil services, energy, governance]
 author: Prudhvi
 ---
 
-Four years ago, I stepped into a role I hadn't fully anticipated — working at the operational and policy heart of one of India's electricity distribution companies. What followed was an education that no classroom, coaching centre, or preparation manual could have given me.
+Four years ago, I stepped into a role I hadn't fully anticipated — I started working at the operational helm of  Andhra Pradesh's electricity sector, intitally in a state level TRANSCO role and now in a DISCOM role. What followed was an education that I didn't expect to receive while entering into civil services.
 
 This blog is my attempt to process that education. And to share it.
 
@@ -19,9 +19,7 @@ During my civil services preparation, energy was a topic. A chapter. Something y
 
 Then I actually worked in the sector.
 
-The gap between what is written about energy in India and what actually happens — in substations, in revenue cycles, in regulatory hearings, in the daily grind of keeping the lights on for millions of consumers — is vast. Not because the writing is wrong, but because the texture of it is missing.
-
-That texture is what I want to write about.
+The gap between what is written about energy in India and what actually happens — in substations, in revenue cycles, in regulatory hearings, in the daily grind of keeping the lights on for millions of consumers — is vast. Not many of us even in the civil services understand the complexities of the sector and hence the thought lead me into penning down these learnings.
 
 ---
 
@@ -29,9 +27,10 @@ That texture is what I want to write about.
 
 The electricity meter is where the grid meets the consumer. Everything on the consumer side of the meter — the bill, the connection, the complaint — is what most people think about when they think about electricity.
 
-But beyond the meter, upstream of it, is a world of extraordinary complexity. Generation assets, transmission corridors, load dispatch centres, power purchase agreements, regulatory tariff orders, AT&C losses, DISCOM finances, renewable integration challenges, smart grid pilots — a dense, interconnected system that quietly underpins modern life.
+But beyond the meter, upstream of it, is a world of extreme complexity. Generation assets, transmission corridors, load dispatch centres, power purchase agreements, regulatory tariff orders,  DISCOM finances, renewable integration challenges, smart grid pilots — a dense, interconnected system that quietly underpins modern life.
 
-I've spent four years in that world. And I want to write about it in a way that is accessible, honest, and occasionally uncomfortable.
+Since I have spent considerable time in the system, I want to write about it in a way that is accessible, honest, and forward looking. Also, since these corporations act like autonomous organisations by themselves, it has helped me touch many facets of administration like Finance, IT, Corporate Law, Project Management etc.  
+
 
 ---
 
@@ -47,7 +46,7 @@ I'll be writing across four broad areas:
 
 **Broader technology learnings** — digital public infrastructure, data, AI, and what they mean for governance and public services.
 
-Some posts will be analytical. Some will be personal. All of them will be honest.
+Some posts will be analytical. Some will be personal. 
 
 ---
 
